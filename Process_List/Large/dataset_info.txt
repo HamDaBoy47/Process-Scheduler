@@ -1,0 +1,19 @@
+Average number of processes: 252.27333333333334
+Min number of processes: 150
+Max number of processes: 348
+Variance of the number of processes: 3285.8252888888887
+---------------------------------------------------------
+Average process time: 249.60088264052217
+Min process time: 150
+Max process time: 350
+Variance of the process time: 3363.292331876002
+---------------------------------------------------------
+Average start time: 16480.818028064798
+Min start time: 0
+Max start time: 86246
+Variance of the process start time: 234300779.15834522
+---------------------------------------------------------
+Average IO Frequency: 31.919346740308132
+Min IO Frequency: 0
+Max IO Frequency: 175
+Variance of the IO Frequency: 1813.3418209416086

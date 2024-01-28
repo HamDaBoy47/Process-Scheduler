@@ -1,0 +1,18 @@
+{
+    "weightings": {
+        "turnaround" : 0.2,
+        "response" : 0.6,
+        "burst" : 0.1,
+        "switch" : 0.1
+    },
+
+    "round-dp" : 2,
+
+    "dataset" : "Small",
+
+    "dataset-sizes" : {
+        "Small" : 10,
+        "Medium" : 100,
+        "Large" : 150
+    }
+}
